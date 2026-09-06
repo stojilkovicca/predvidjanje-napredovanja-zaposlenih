@@ -1,0 +1,20 @@
+﻿Atribut,Kategorija,Broj,Udeo (%),Stopa unapredjenja (%)
+gender,Female,46259,50.03,9.64
+gender,Male,46199,49.97,10.12
+education_level,Bachelor,59823,64.7,9.77
+education_level,Master,27866,30.14,10.04
+education_level,PhD,4769,5.16,10.38
+marital_status,Single,46357,50.14,9.86
+marital_status,Married,46101,49.86,9.91
+city_tier,Tier1,37255,40.29,9.88
+city_tier,Tier2,32253,34.88,9.87
+city_tier,Tier3,22950,24.82,9.9
+department,Finance,13607,14.72,7.94
+department,HR,13532,14.64,2.9
+department,Support,13253,14.33,1.94
+department,Marketing,13174,14.25,8.65
+department,Sales,13085,14.15,11.0
+department,Operations,13050,14.11,4.46
+department,Engineering,12757,13.8,33.28
+employment_type,Full-time,78505,84.91,9.79
+employment_type,Contract,13953,15.09,10.4

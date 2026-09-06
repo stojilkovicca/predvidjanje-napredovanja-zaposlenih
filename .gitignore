@@ -1,0 +1,31 @@
+# Skup podataka (52 MB) - preuzima se sa Kaggle-a, vidi README
+employee_promotion_prediction.csv
+
+# Istrenirani modeli (218 MB) - nastaju pokretanjem beleznice
+modeli/
+
+# Kes pipeline-a (109 MB)
+kes_pipeline/
+
+# Literatura - naucni radovi pod autorskim pravom, ne redistribuiraju se
+literatura/
+
+# Licna i fakultetska dokumenta
+dokumenta/
+*.docx
+*.pptx
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Razvojna okruzenja
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini

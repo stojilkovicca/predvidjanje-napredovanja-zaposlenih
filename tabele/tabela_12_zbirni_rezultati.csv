@@ -1,0 +1,10 @@
+﻿Model,Algoritam,Varijanta,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+LR osnovni,Logisticka regresija,osnovni,0.912,0.6448,0.2425,0.3524,0.8658,0.4703
+LR balansirani,Logisticka regresija,balansirani,0.7766,0.2784,0.792,0.412,0.8656,0.47
+LR podeseni,Logisticka regresija,podeseni,0.7765,0.2783,0.792,0.4118,0.8656,0.4701
+RF osnovni,Random Forest,osnovni,0.9055,0.8264,0.0547,0.1027,0.8688,0.472
+RF balansirani,Random Forest,balansirani,0.9059,0.848,0.058,0.1086,0.8846,0.5083
+RF podeseni,Random Forest,podeseni,0.8863,0.4417,0.572,0.4984,0.8868,0.519
+XGB osnovni,XGBoost,osnovni,0.9227,0.6764,0.4176,0.5164,0.9275,0.6208
+XGB balansirani,XGBoost,balansirani,0.8863,0.4543,0.7515,0.5663,0.9256,0.622
+XGB podeseni,XGBoost,podeseni,0.9028,0.5058,0.6935,0.5849,0.9292,0.6421

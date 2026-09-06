@@ -1,0 +1,12 @@
+﻿Atribut 1,Atribut 2,Korelacija
+performance_score,performance_last_year,0.918
+projects_completed,tasks_completed,0.914
+performance_score,kpi_achievement_percent,0.828
+performance_last_year,performance_two_years_ago,0.828
+leadership_score,stock_options,0.775
+performance_score,manager_rating,0.765
+performance_score,bonus_last_year,0.762
+performance_score,performance_two_years_ago,0.761
+performance_last_year,kpi_achievement_percent,0.759
+innovation_score,skill_assessment_score,0.754
+performance_last_year,manager_rating,0.702
