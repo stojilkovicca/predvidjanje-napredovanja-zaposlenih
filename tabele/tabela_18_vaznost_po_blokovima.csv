@@ -1,7 +1,7 @@
 ﻿Blok,Logistička regresija,Random Forest,XGBoost
-Učinak,32.5,46.8,48.9
-Sektor,48.1,24.2,38.5
-Obim posla,1.2,18.1,1.4
-Kompetencije,6.4,4.1,3.2
-Zadovoljstvo,11.5,6.9,7.9
-Demografija,0.3,0.0,0.0
+Učinak,31.4,50.5,51.3
+Sektor,53.7,24.7,37.4
+Obim posla,0.2,16.9,0.8
+Kompetencije,4.3,2.7,3.0
+Zadovoljstvo,9.9,5.0,7.5
+Demografija,0.6,0.2,0.0
