@@ -65,7 +65,7 @@ Referentna tačka: trivijalan model koji sve proglašava unapređenima daje F1 =
 ```
 analiza.ipynb      celokupna analiza, 100 ćelija (A–F)
 pretraga_rf.py     zasebna pretraga hiperparametara za Random Forest
-slike/             13 grafikona (200 dpi)
+slike/             20 grafikona (7 teorijskih na 300 dpi, 13 iz analize na 200)
 tabele/            17 tabela sa rezultatima (CSV)
 requirements.txt   verzije korišćenih biblioteka
 ```
@@ -102,7 +102,8 @@ Svi koraci koji sadrže slučajnost koriste `random_state=42`, pa se dobijaju id
 - **McNemarov test** poredi modele po tačnosti, pa je kao dopuna uveden **bootstrap interval
   poverenja za razliku u F1** — meri koja nosi zaključak rada. Uzorci su upareni.
 - **Grupna permutaciona važnost** meša ceo blok korelisanih atributa odjednom, jer pojedinačna
-  važnost potcenjuje blokove u kojima se atributi međusobno zamenjuju.
+  važnost potcenjuje blokove u kojima se atributi međusobno zamenjuju. Obe važnosti,
+  pojedinačna i grupna, mere se padom mere F1, da bi bile uporedive.
 
 ---
 
