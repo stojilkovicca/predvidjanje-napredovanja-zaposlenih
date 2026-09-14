@@ -18,7 +18,7 @@ načina na koji je pripremljen.
 | **Obim** | 100.000 zapisa × 43 kolone → 92.458 posle čišćenja |
 | **Disbalans klasa** | 9,88 % unapređenih (1 : 9,1) |
 | **Podela** | 80 / 20, stratifikovano, `random_state=42` |
-| **Validacija** | `StratifiedKFold`, pet preklopa |
+| **Validacija** | `StratifiedKFold`, pet segmenata |
 | **Glavna mera** | F1 (tačnost obmanjuje pri ovakvom disbalansu) |
 
 Shema 3 × 3 — tri algoritma, svaki u tri varijante:

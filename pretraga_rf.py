@@ -65,7 +65,7 @@ mreza_rf = {
     "model__class_weight": [None, "balanced_subsample"],
 }
 
-print(f"Trening: {len(X_train):,} redova | mreza: 18 kombinacija x 5 preklopa = 90 treniranja")
+print(f"Trening: {len(X_train):,} redova | mreza: 18 kombinacija x 5 segmenata = 90 treniranja")
 print("Broj stabala fiksiran na 200 (Breiman, 2001).\n")
 
 t0 = time.time()
